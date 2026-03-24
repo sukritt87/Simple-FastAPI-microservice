@@ -1,7 +1,7 @@
 fastapi
 uvicorn
-torch
-scikit-learn
 numpy
 joblib
 pydantic
+scikit-learn
+torch --index-url https://download.pytorch.org/whl/cpu
